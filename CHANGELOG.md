@@ -6,6 +6,58 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.0.0]
+### Uncategorized
+- Bump semver from 7.3.8 to 7.5.2 ([#110](https://github.com/mcmire/utils/pull/110))
+- 6.1.0 ([#109](https://github.com/mcmire/utils/pull/109))
+- 6.0.1 ([#106](https://github.com/mcmire/utils/pull/106))
+- 6.0.0 ([#104](https://github.com/mcmire/utils/pull/104))
+- 5.0.2 ([#101](https://github.com/mcmire/utils/pull/101))
+- 5.0.1 ([#97](https://github.com/mcmire/utils/pull/97))
+- Use PAT for publishing docs ([#96](https://github.com/mcmire/utils/pull/96))
+- Update GitHub Actions to match module template ([#95](https://github.com/mcmire/utils/pull/95))
+- 5.0.0 ([#93](https://github.com/mcmire/utils/pull/93))
+- Bump `peaceiris/actions-gh-pages` to more recent version ([#88](https://github.com/mcmire/utils/pull/88))
+- 4.0.0 ([#87](https://github.com/mcmire/utils/pull/87))
+- 3.6.0 ([#84](https://github.com/mcmire/utils/pull/84))
+- 3.5.0 ([#83](https://github.com/mcmire/utils/pull/83))
+- Revert "BREAKING: Handle `toJSON` in JSON validation and sizing (#52)" ([#52](https://github.com/mcmire/utils/pull/52))
+- Add tests for misc types and type guards ([#78](https://github.com/mcmire/utils/pull/78))
+- Bump json5 from 1.0.1 to 1.0.2 ([#77](https://github.com/mcmire/utils/pull/77))
+- Bump http-cache-semantics from 4.1.0 to 4.1.1 ([#76](https://github.com/mcmire/utils/pull/76))
+- BREAKING: Handle `toJSON` in JSON validation and sizing ([#52](https://github.com/mcmire/utils/pull/52))
+- 3.4.1 ([#72](https://github.com/mcmire/utils/pull/72))
+- 3.4.0 ([#70](https://github.com/mcmire/utils/pull/70))
+- Bump @metamask/eslint-config-jest from 11.0.0 to 11.1.0 ([#66](https://github.com/mcmire/utils/pull/66))
+- Bump @metamask/eslint-config-typescript from 11.0.2 to 11.1.0 ([#65](https://github.com/mcmire/utils/pull/65))
+- Bump @metamask/eslint-config-nodejs from 11.0.1 to 11.1.0 ([#64](https://github.com/mcmire/utils/pull/64))
+- Bump @metamask/eslint-config from 11.0.2 to 11.1.0 ([#63](https://github.com/mcmire/utils/pull/63))
+- Bump @metamask/eslint-config from 11.0.1 to 11.0.2 ([#61](https://github.com/mcmire/utils/pull/61))
+- Bump @metamask/eslint-config-typescript from 11.0.0 to 11.0.2 ([#62](https://github.com/mcmire/utils/pull/62))
+- Bump ESLint configs and related dependencies ([#60](https://github.com/mcmire/utils/pull/60))
+- Use latest workflow from module template ([#48](https://github.com/mcmire/utils/pull/48))
+- 3.3.1 ([#53](https://github.com/mcmire/utils/pull/53))
+- 3.3.0 ([#50](https://github.com/mcmire/utils/pull/50))
+- 3.2.0 ([#44](https://github.com/mcmire/utils/pull/44))
+- Add tests for `Json` and `Hex` type ([#42](https://github.com/mcmire/utils/pull/42))
+- 3.1.0 ([#37](https://github.com/mcmire/utils/pull/37))
+- Bump Yarn to v3 and patch jest-worker ([#36](https://github.com/mcmire/utils/pull/36))
+- 3.0.3 ([#30](https://github.com/mcmire/utils/pull/30))
+- 3.0.2 ([#27](https://github.com/mcmire/utils/pull/27))
+- 3.0.1 ([#24](https://github.com/mcmire/utils/pull/24))
+- 3.0.0 ([#22](https://github.com/mcmire/utils/pull/22))
+- Upgrade TypeScript to 4.7 ([#21](https://github.com/mcmire/utils/pull/21))
+- 2.1.0 ([#15](https://github.com/mcmire/utils/pull/15))
+- Bump @metamask/auto-changelog from 2.6.0 to 2.6.1 ([#13](https://github.com/mcmire/utils/pull/13))
+- Bump @metamask/auto-changelog from 2.5.0 to 2.6.0 ([#12](https://github.com/mcmire/utils/pull/12))
+- 2.0.0 ([#11](https://github.com/mcmire/utils/pull/11))
+- Fix link to API docs in README ([#10](https://github.com/mcmire/utils/pull/10))
+- 1.0.0 ([#6](https://github.com/mcmire/utils/pull/6))
+- Add automated API docs generation and publishing ([#7](https://github.com/mcmire/utils/pull/7))
+- Initial implementation ([#3](https://github.com/mcmire/utils/pull/3))
+- Rename package ([#1](https://github.com/mcmire/utils/pull/1))
+- Initial commit
+
 ## [6.1.0]
 ### Added
 - Add optional `destroy` method to `Keyring` type ([#108](https://github.com/MetaMask/utils/pull/108))
@@ -158,26 +210,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/MetaMask/utils/compare/v6.1.0...HEAD
-[6.1.0]: https://github.com/MetaMask/utils/compare/v6.0.1...v6.1.0
-[6.0.1]: https://github.com/MetaMask/utils/compare/v6.0.0...v6.0.1
-[6.0.0]: https://github.com/MetaMask/utils/compare/v5.0.2...v6.0.0
-[5.0.2]: https://github.com/MetaMask/utils/compare/v5.0.1...v5.0.2
-[5.0.1]: https://github.com/MetaMask/utils/compare/v5.0.0...v5.0.1
-[5.0.0]: https://github.com/MetaMask/utils/compare/v4.0.0...v5.0.0
-[4.0.0]: https://github.com/MetaMask/utils/compare/v3.6.0...v4.0.0
-[3.6.0]: https://github.com/MetaMask/utils/compare/v3.5.0...v3.6.0
-[3.5.0]: https://github.com/MetaMask/utils/compare/v3.4.1...v3.5.0
-[3.4.1]: https://github.com/MetaMask/utils/compare/v3.4.0...v3.4.1
-[3.4.0]: https://github.com/MetaMask/utils/compare/v3.3.1...v3.4.0
-[3.3.1]: https://github.com/MetaMask/utils/compare/v3.3.0...v3.3.1
-[3.3.0]: https://github.com/MetaMask/utils/compare/v3.2.0...v3.3.0
-[3.2.0]: https://github.com/MetaMask/utils/compare/v3.1.0...v3.2.0
-[3.1.0]: https://github.com/MetaMask/utils/compare/v3.0.3...v3.1.0
-[3.0.3]: https://github.com/MetaMask/utils/compare/v3.0.2...v3.0.3
-[3.0.2]: https://github.com/MetaMask/utils/compare/v3.0.1...v3.0.2
-[3.0.1]: https://github.com/MetaMask/utils/compare/v3.0.0...v3.0.1
-[3.0.0]: https://github.com/MetaMask/utils/compare/v2.1.0...v3.0.0
-[2.1.0]: https://github.com/MetaMask/utils/compare/v2.0.0...v2.1.0
-[2.0.0]: https://github.com/MetaMask/utils/compare/v1.0.0...v2.0.0
-[1.0.0]: https://github.com/MetaMask/utils/releases/tag/v1.0.0
+[Unreleased]: https://github.com/mcmire/utils/compare/v7.0.0...HEAD
+[7.0.0]: https://github.com/mcmire/utils/compare/v6.1.0...v7.0.0
+[6.1.0]: https://github.com/mcmire/utils/compare/v6.0.1...v6.1.0
+[6.0.1]: https://github.com/mcmire/utils/compare/v6.0.0...v6.0.1
+[6.0.0]: https://github.com/mcmire/utils/compare/v5.0.2...v6.0.0
+[5.0.2]: https://github.com/mcmire/utils/compare/v5.0.1...v5.0.2
+[5.0.1]: https://github.com/mcmire/utils/compare/v5.0.0...v5.0.1
+[5.0.0]: https://github.com/mcmire/utils/compare/v4.0.0...v5.0.0
+[4.0.0]: https://github.com/mcmire/utils/compare/v3.6.0...v4.0.0
+[3.6.0]: https://github.com/mcmire/utils/compare/v3.5.0...v3.6.0
+[3.5.0]: https://github.com/mcmire/utils/compare/v3.4.1...v3.5.0
+[3.4.1]: https://github.com/mcmire/utils/compare/v3.4.0...v3.4.1
+[3.4.0]: https://github.com/mcmire/utils/compare/v3.3.1...v3.4.0
+[3.3.1]: https://github.com/mcmire/utils/compare/v3.3.0...v3.3.1
+[3.3.0]: https://github.com/mcmire/utils/compare/v3.2.0...v3.3.0
+[3.2.0]: https://github.com/mcmire/utils/compare/v3.1.0...v3.2.0
+[3.1.0]: https://github.com/mcmire/utils/compare/v3.0.3...v3.1.0
+[3.0.3]: https://github.com/mcmire/utils/compare/v3.0.2...v3.0.3
+[3.0.2]: https://github.com/mcmire/utils/compare/v3.0.1...v3.0.2
+[3.0.1]: https://github.com/mcmire/utils/compare/v3.0.0...v3.0.1
+[3.0.0]: https://github.com/mcmire/utils/compare/v2.1.0...v3.0.0
+[2.1.0]: https://github.com/mcmire/utils/compare/v2.0.0...v2.1.0
+[2.0.0]: https://github.com/mcmire/utils/compare/v1.0.0...v2.0.0
+[1.0.0]: https://github.com/mcmire/utils/releases/tag/v1.0.0
