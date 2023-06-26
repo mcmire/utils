@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [9.0.0]
+### Uncategorized
+- Fix lint violations
+- Update constraints
+- Release 8.0.0 ([#2](https://github.com/mcmire/utils/pull/2))
+- Update repo URL
+- Remove real NPM publishing jobs
+- Initial commit
+
 ## [8.0.0]
 ### Uncategorized
 - Update repo URL
@@ -216,7 +225,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/mcmire/utils/compare/v8.0.0...HEAD
+[Unreleased]: https://github.com/mcmire/utils/compare/v9.0.0...HEAD
+[9.0.0]: https://github.com/mcmire/utils/compare/v8.0.0...v9.0.0
 [8.0.0]: https://github.com/mcmire/utils/compare/v7.0.0...v8.0.0
 [7.0.0]: https://github.com/mcmire/utils/compare/v6.1.0...v7.0.0
 [6.1.0]: https://github.com/mcmire/utils/compare/v6.0.1...v6.1.0
