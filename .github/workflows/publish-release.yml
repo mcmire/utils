@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
-      - uses: MetaMask/action-publish-release@c4bbdfb0268ec1eeac92ebdc112b5507f2ecffba
+      - uses: MetaMask/action-publish-release@ab23e5c39c2320305b50a4270bce14091e1f46eb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Install
