@@ -6,10 +6,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [9.0.0]
-### Changed
-- Whatever
-
 ## [8.2.0]
 ### Added
 - Add struct utils for validating JSON objects with optional values ([#136](https://github.com/MetaMask/utils/pull/136))
@@ -208,8 +204,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/MetaMask/utils/compare/v9.0.0...HEAD
-[9.0.0]: https://github.com/MetaMask/utils/compare/v8.2.0...v9.0.0
+[Unreleased]: https://github.com/MetaMask/utils/compare/v8.2.0...HEAD
 [8.2.0]: https://github.com/MetaMask/utils/compare/v8.1.0...v8.2.0
 [8.1.0]: https://github.com/MetaMask/utils/compare/v8.0.0...v8.1.0
 [8.0.0]: https://github.com/MetaMask/utils/compare/v7.1.0...v8.0.0
