@@ -71,4 +71,4 @@ The project follows the same release process as the other libraries in the MetaM
    - Use `npm publish --dry-run` to examine the release contents to ensure the correct files are included. Compare to previous releases if necessary (e.g. using `https://unpkg.com/browse/[package name]@[package version]/`).
    - Once you are confident the release contents are correct, publish the release using `npm publish`.
 
-sadfadfad dkslj dsaflkds lkdj
+sadfadfad dkslj dsaflkds lkdj adsl
