@@ -1,7 +1,14 @@
 name: Publish Release
 
 on:
-  workflow_dispatch:
+  workflow_call:
+    secrets:
+      NPM_TOKEN:
+        required: true
+      SLACK_WEBHOOK_URL:
+        required: true
+      PUBLISH_DOCS_TOKEN:
+        required: true
 
 jobs:
   publish-release:
