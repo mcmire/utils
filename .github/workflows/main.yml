@@ -65,7 +65,6 @@ jobs:
 
   publish-release:
     needs: is-release
-    if: needs.is-release.outputs.IS_RELEASE == 'true'
     name: Publish release
     permissions:
       contents: write
