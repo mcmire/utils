@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [8.4.2]
+### Added
+- Do something
+
 ## [8.4.1]
 ### Added
 - Do something
@@ -227,7 +231,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/MetaMask/utils/compare/v8.4.1...HEAD
+[Unreleased]: https://github.com/MetaMask/utils/compare/v8.4.2...HEAD
+[8.4.2]: https://github.com/MetaMask/utils/compare/v8.4.0...v8.4.2
 [8.4.1]: https://github.com/MetaMask/utils/compare/v8.4.0...v8.4.1
 [8.4.0]: https://github.com/MetaMask/utils/compare/v8.3.0...v8.4.0
 [8.3.0]: https://github.com/MetaMask/utils/compare/v8.2.1...v8.3.0
