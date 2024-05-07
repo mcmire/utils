@@ -1,5 +1,5 @@
 {
-  "name": "@mcmire/utils",
+  "name": "@metamask/utils",
   "version": "8.4.2",
   "description": "Various JavaScript/TypeScript utilities of wide relevance to the MetaMask codebase",
   "homepage": "https://github.com/MetaMask/utils#readme",
